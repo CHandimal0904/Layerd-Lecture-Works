@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_01LoosCoupling/_01LoosCoupling.iml" filepath="$PROJECT_DIR$/_01LoosCoupling/_01LoosCoupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02Dipendancy_Injection/_02Dipendancy_Injection1.iml" filepath="$PROJECT_DIR$/_02Dipendancy_Injection/_02Dipendancy_Injection1.iml" />
+    </modules>
+  </component>
+</project>
